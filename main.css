@@ -3,12 +3,12 @@
 /* Set custom variables here */
 
 :root {
-  --primary: green;
+  --primary-color: green;
   
   
 }
-.bg-primary{
-  background-color: var(--primary);
+.primary-color{
+  background-color: var(--primary-color);
   
 }
 
